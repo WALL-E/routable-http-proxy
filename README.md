@@ -35,3 +35,8 @@ response = request.proxy(url="http://httpbin.org/anything", method="get", header
 
 print(response.text)
 ```
+
+## TODO
+
+- [ ] support https and tests
+- [ ] docs
